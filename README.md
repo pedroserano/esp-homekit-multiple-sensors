@@ -4,7 +4,7 @@ This repository is based on the code and the examples provided by Maxim Kulkin.
 
 https://github.com/maximkulkin/esp-homekit-demo
 
-Detailed instructions on how to use the code found here can be found on Maxim's repository. It is the first thing to do before trying the code here. 
+Detailed instructions on how to use the code found here can be found here: https://github.com/pedroserano/esp-homekit-multiple-sensors/wiki
 
 This multiple sensor example is basically Maxim Kulkin's temperature sensure example with the following improvements: 
 
